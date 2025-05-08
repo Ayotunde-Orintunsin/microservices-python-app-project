@@ -17,7 +17,7 @@ This document provides a step-by-step guide for deploying a Python-based microse
 
 Before you begin, ensure that the following prerequisites are met:
 
-1. **Create an AWS Account:** If you do not have an AWS account, create one by following the steps [here](https://docs.aws.amazon.com/streams/latest/dev/setting-up.html).
+1. **Create an AWS Accounts:** If you do not have an AWS account, create one by following the steps [here](https://docs.aws.amazon.com/streams/latest/dev/setting-up.html).
 
 2. **Install Helm:** Helm is a Kubernetes package manager. Install Helm by following the instructions provided [here](https://helm.sh/docs/intro/install/).
 
